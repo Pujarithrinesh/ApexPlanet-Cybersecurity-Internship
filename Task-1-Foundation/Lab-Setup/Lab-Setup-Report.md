@@ -61,8 +61,8 @@ rtt min/avg/max/mdev = 0.588/11.814/20.885/7.674 ms
 
 Summarize the commands practised, including navigation (`pwd`, `ls`, `cd`), file creation, permissions (`chmod`), package management (`apt`, `dpkg`) and networking (`ip addr`, `ip route`, `ping`, `ss` or other tools actually used).
 
-| Command | Purpose | Result/evidence |
-|---|---|---|
+| Command | Purpose |
+|---|---|
 | `pwd`, `ls -la` | Directory navigation and listing |
 | `chmod 600 permission-demo.txt` | Demonstrate file permissions | 
 | `ip addr`, `ip route` | Inspect interfaces and routes | 
