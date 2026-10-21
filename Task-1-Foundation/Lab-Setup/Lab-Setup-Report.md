@@ -17,9 +17,9 @@ The objective is to establish an isolated cybersecurity lab, practise foundation
 | Virtualization software | VirtualBox |
 | Testing VM | Kali Linux |
 | Target VM | Metasploitable2 |
-| Network mode | 
-| Kali IP/prefix |
-| Target IP|
+| Network mode | Bridged |
+| Kali IP/prefix | 172.17.54.136 |
+| Target IP| 172.17.54.233 |
 
 Do not guess IP addresses or software versions. Fill this table from the running systems.
 
